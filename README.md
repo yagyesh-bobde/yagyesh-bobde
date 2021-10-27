@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yagyesh</h1>
+<h1 align="center">Hi 👋,This is Yagyesh</h1>
 <h3 align="center">I am passionate about Machine Learning and Artificial Intelligence.</h3>
 
 - 🔭 I’m currently working on [Titanic Survivor Prediction Competition Dataset](https://github.com/yagyesh-bobde/Titanic-Survivor-Prediction-Kaggle-Competition)
