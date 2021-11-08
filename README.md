@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
-- 📝 I regularly write articles on [https://medium.com/@Yagyesh_bobde](https://medium.com/@Yagyesh_bobde)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Yagyesh_bobde)
 
 - 💬 Ask me about **vue , quasar , ml**
 
@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@Yagyesh_bobde
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
