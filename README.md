@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,This is Yagyesh</h1>
 <h3 align="center">I am passionate about Machine Learning and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on [Titanic Survivor Prediction Competition Dataset](https://github.com/yagyesh-bobde/Titanic-Survivor-Prediction-Kaggle-Competition)
+- 🔭 I’m currently working on [G-Research Crypto Forecasting](https://github.com/yagyesh-bobde/G-Research-Crypto-Forecasting-Competition)
 
 - 🌱 I’m currently learning **Quasar Framework, Unsupervised Machine learning**
 
