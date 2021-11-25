@@ -12,10 +12,14 @@
 - 💬 Ask me about **vue , quasar , ml**
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
-
+- 
+### YouTube 
+<!-- Youtube-POST-LIST:START -->
+https://bit.ly/deepdiveML
+<!-- BLOG-POST-LIST:END -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@Yagyesh_bobde
+https://bit.ly/ybmedium
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
