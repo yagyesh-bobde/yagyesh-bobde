@@ -9,10 +9,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Yagyesh_bobde)
 
-- 💬 Ask me about **vue , quasar , ml**
+- 💬 Ask me about **Machine Learning$Web Development**
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
-- 
 ### YouTube 
 <!-- Youtube-POST-LIST:START -->
 https://bit.ly/deepdiveML
