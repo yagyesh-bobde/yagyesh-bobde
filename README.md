@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋,This is Yagyesh</h1>
 <h3 align="center">I am passionate about Machine Learning and Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on [Script Winter Of Code](https://swoc.scriptindia.org/#/)
-
-- 🌱 I’m currently learning **Quasar Framework, Unsupervised Machine learning**
+- 🌱 I’m currently learning **Web Development with MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
