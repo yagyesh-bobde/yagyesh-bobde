@@ -10,8 +10,9 @@
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
 <center>
   <h1>GitHub Stats</h1>
-</center>
-[![bobde-yagyesh's GitHub | Stats](https://stats.quine.sh/bobde-yagyesh/github?theme=light)](https://quine.sh)  
+</center>  
+
+[![bobde-yagyesh's GitHub | Stats](https://stats.quine.sh/bobde-yagyesh/github?theme=light)](https://quine.sh)
 
 [![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=light)](https://quine.sh)  
 ### YouTube 
