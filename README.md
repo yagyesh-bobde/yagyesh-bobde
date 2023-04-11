@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋,This is Yagyesh</h1>
-<h3 align="center">I am passionate about Machine Learning and Artificial Intelligence.</h3>
+<h3 align="center">I am passionate about new learning technologies, AI in particular.</h3>
 
 - 🌱 I’m currently learning **Web Development with MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Yagyesh_bobde)
-
 - 💬 Ask me about **Machine Learning$Web Development**
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
+<center>
+  <h1>GitHub Stats</h1>
+</center>
+[![bobde-yagyesh's GitHub | Stats](https://stats.quine.sh/bobde-yagyesh/github?theme=light)](https://quine.sh)
+[![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=light)](https://quine.sh)
 ### YouTube 
 <!-- Youtube-POST-LIST:START -->
 https://bit.ly/deepdiveML
