@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋,This is Yagyesh</h1>
 <h3 align="center">I am passionate about new learning technologies, AI in particular.</h3>
 
+
 - 🌱 I’m currently learning **Web Development with MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
-- 💬 Ask me about **Machine Learning$Web Development**
+- 💬 Ask me about **Machine Learning $ Web Development**
+
+- ✍ Technical Blog Posts: https://github.com/yagyesh-bobde/Computer-Vision-OpenCV-Projects
+
+- 💻 Hashnode Blog: https://developerszone.hashnode.dev
+
+- 🎥 YouTube Channel: [Developers Zone 🚀 ](https://youtube.com/@developersZoneYB)
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
+
+- Recently Participated in the Appwrite Hackathon on Hashnode. Find My latest article published here: 
+
+
 <center>
   <h1>GitHub Stats</h1>
 </center>  
