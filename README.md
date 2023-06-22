@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
 
+- 📃 [Download My Resume](https://drive.google.com/file/d/1niNjOJdN9u296_WRpbmvbsNvttFImjQF/view?usp=sharing)
+
 - Recently Participated in the Appwrite Hackathon on Hashnode. Find My latest article published here: 
 
 
