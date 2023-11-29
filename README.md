@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about new learning technologies, AI in particular.</h3>
 
 
-- 🌱 I’m currently learning **Web Development with MERN stack**
+- 🌱 I’m currently building projects in **Web Development & Cross Platform Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
@@ -16,10 +16,9 @@
 
 - 📫 How to reach me **yagyeshsrbobde@gmail.com**
 
-- 📃 [Download My Resume](https://drive.google.com/file/d/1niNjOJdN9u296_WRpbmvbsNvttFImjQF/view?usp=sharing)
+- 📃 [Download My Resume](https://drive.google.com/file/d/1dQpHqBvuuXtaqp8qyQmF95Sqo_EWwzcU/view?usp=sharing)
 
 - Recently Participated in the Appwrite Hackathon on Hashnode. Find My latest article published here: 
-
 
 <center>
   <h1>GitHub Stats</h1>
