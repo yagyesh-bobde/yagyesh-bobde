@@ -37,12 +37,7 @@
   </tr>
 </table>
 
-
-
-
-[![bobde-yagyesh's GitHub | Stats](https://stats.quine.sh/bobde-yagyesh/github?theme=light)](https://quine.sh)
-
-[![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=light)](https://quine.sh)  
+[![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=dark)](https://quine.sh)  
 ### YouTube 
 <!-- Youtube-POST-LIST:START -->
 https://bit.ly/deepdiveML
