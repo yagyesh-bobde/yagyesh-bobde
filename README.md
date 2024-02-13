@@ -35,14 +35,7 @@
 </table>
 
 [![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=dark)](https://quine.sh)  
-### YouTube 
-<!-- Youtube-POST-LIST:START -->
-https://bit.ly/deepdiveML
-<!-- BLOG-POST-LIST:END -->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://bit.ly/ybmedium
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
