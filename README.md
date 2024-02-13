@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
 
-- 💬 Ask me about **Machine Learning $ Web Development**
+- 💬 Ask me about **Machine Learning $ Web Development $ Hackathons**
 
 - ✍ Technical Blog Posts: https://github.com/yagyesh-bobde/Computer-Vision-OpenCV-Projects
 
