@@ -23,9 +23,6 @@
 <center>
   <h1>GitHub Stats</h1>
 </center>  
-
-## Stats!
-
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
