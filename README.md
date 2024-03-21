@@ -14,7 +14,7 @@
 
 - 🎥 YouTube Channel: [Developers Zone 🚀 ](https://youtube.com/@developersZoneYB)
 
-- 📫 How to reach me **yagyeshsrbobde@gmail.com**
+- 📫 Connect with me on Linkedin or X :) -> username: bobde_yagyesh
 
 - 📃 [Download My Resume](https://drive.google.com/file/d/1vd72DMkzIU-AMI2Mn5R8zc5x5yebEQDV/view?usp=sharing)
 
