@@ -2,6 +2,12 @@
 <h3 align="center">I am passionate about new learning technologies, AI in particular.</h3>
 
 
+<a href="https://www.buymeacoffee.com/bobde_yagyesh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px; width: 174px; border: none; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);">
+</a>
+
+
+
 - 🌱 I’m currently building projects in **Web Development & Cross Platform Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
