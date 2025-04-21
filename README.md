@@ -7,7 +7,8 @@
 </a>
 
 
-
+- 🧳 Building a [New Gen Productivity App](https://beeproductive.xyz)
+  
 - 🌱 I’m currently building projects in **Web Development & Cross Platform Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
@@ -20,12 +21,10 @@
 
 - 🎥 YouTube Channel: [Developers Zone 🚀 ](https://youtube.com/@developersZoneYB)
 
-- 📫 Connect with me on Linkedin or X :) -> username: bobde_yagyesh
+- 📫 Connect with me on LinkedIn or X :) -> username: bobde_yagyesh
 
-- 📃 [Download My Resume](https://drive.google.com/file/d/1vd72DMkzIU-AMI2Mn5R8zc5x5yebEQDV/view?usp=sharing)
-
-- Recently Participated in the Appwrite Hackathon on Hashnode. Find My latest article published here: 
-
+- 📃 [Download My Resume](https://drive.google.com/file/d/1ZREZcy30QulE69MGNXTmak24_iKjx8Tg/view?usp=sharing)
+- 
 <center>
   <h1>GitHub Stats</h1>
 </center>  
