@@ -1,64 +1,28 @@
-<h1 align="center">Hi 👋,This is Yagyesh</h1>
-<h3 align="center">I am passionate about new learning technologies, AI in particular.</h3>
+# 💫 About Me:
+🔭 I’m currently working on a new gen productivity app.<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Multi Agentic Systems <br>💬 Ask me about Web Dev & MVP Development<br>⚡ Fun fact -> Still looking for pair programmer :(
 
 
-<a href="https://www.buymeacoffee.com/bobde_yagyesh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px; width: 174px; border: none; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);">
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bobde_yagyesh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bobde-yagyesh/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bobde-yagyesh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bobde_yagyesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@developersZoneYB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yagyeshsrbobde@gmail.com) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yagyesh-bobde&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yagyesh-bobde&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagyesh-bobde&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🧳 Building a [New Gen Productivity App](https://beeproductive.xyz)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yagyesh-bobde&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yagyesh-bobde&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bobde_yagyesh) 
+
   
-- 🌱 I’m currently building projects in **Web Development & Cross Platform Applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yagyesh-bobde](https://github.com/yagyesh-bobde)
-
-- 💬 Ask me about **Machine Learning $ Web Development $ Hackathons**
-
-- ✍ Technical Blog Posts: https://github.com/yagyesh-bobde/Computer-Vision-OpenCV-Projects
-
-- 💻 Hashnode Blog: https://developerszone.hashnode.dev
-
-- 🎥 YouTube Channel: [Developers Zone 🚀 ](https://youtube.com/@developersZoneYB)
-
-- 📫 Connect with me on LinkedIn or X :) -> username: bobde_yagyesh
-
-- 📃 [Download My Resume](https://drive.google.com/file/d/1ZREZcy30QulE69MGNXTmak24_iKjx8Tg/view?usp=sharing)
-- 
-<center>
-  <h1>GitHub Stats</h1>
-</center>  
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=yagyesh-bobde&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=yagyesh-bobde&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-
-[![bobde-yagyesh's GitHub | Topics Over Time](https://stats.quine.sh/bobde-yagyesh/topics-over-time?theme=dark)](https://quine.sh)  
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bobde_yagyesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bobde_yagyesh" height="30" width="40" /></a>
-<a href="https://kaggle.com/yagyeshb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yagyeshb" height="30" width="40" /></a>
-<a href="https://instagram.com/yagyesh.bobde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yagyesh.bobde" height="30" width="40" /></a>
-<a href="https://medium.com/@yagyesh_bobde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yagyesh_bobde" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yml" height="30" width="40" /></a>
-<a href="/https://medium.com/@yagyesh_bobde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@yagyesh_bobde" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-<p align="center"> 
-  <br>&nbsp;
-  <strong>What number r u?</strong>
-  <br>&nbsp;
-  <img src="https://profile-counter.glitch.me/yagyesh-bobde/count.svg" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
