@@ -24,5 +24,14 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bobde_yagyesh) 
 
+
+
+<p align="center"> 
+  <br>&nbsp;
+  <strong>What number r u?</strong>
+  <br>&nbsp;
+  <img src="https://profile-counter.glitch.me/yagyesh-bobde/count.svg" />
+</p>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
