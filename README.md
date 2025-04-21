@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a new gen productivity app.<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Multi Agentic Systems <br>💬 Ask me about Web Dev & MVP Development<br>⚡ Fun fact -> Still looking for pair programmer :(
+🔭 I’m currently working on a <a href="https://www.beeproductive.xyz">new gen productivity app</a>.<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning Multi Agentic Systems <br>💬 Ask me about Web Dev & MVP Development<br>⚡ Fun fact -> Still looking for pair programmer :(
 
 
 ## 🌐 Socials:
